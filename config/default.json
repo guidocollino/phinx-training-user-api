@@ -1,0 +1,14 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 5984,
+    "name": "customers"
+  },
+  "jwt": {
+    "key": "miclaveultrasecreta123*",
+    "expireIn": "86400"
+  },
+  "bcrypt": {
+    "salt": "asdadslsdlasmdlaskdmaslk"
+  }
+}
